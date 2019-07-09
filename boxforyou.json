@@ -5,32 +5,37 @@
     {
       "name":"RedBull",
       "shortDescription":"The good product for your heath.",
-      "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndEiKEvhiSw4kxopzfQPeE_2AVI-YL0cmhG-EvuB9gwnOAQx4"
+      "images":"http://localhost:3000/assets/img/touch-slider/img1.jpg"
     },
     {
       "name":"RedBull",
       "shortDescription":"The good product for your heath.",
-      "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndEiKEvhiSw4kxopzfQPeE_2AVI-YL0cmhG-EvuB9gwnOAQx4"
+      "images":"http://localhost:3000/assets/img/touch-slider/img1.jpg"
     },
     {
       "name":"RedBull",
       "shortDescription":"The good product for your heath.",
-      "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndEiKEvhiSw4kxopzfQPeE_2AVI-YL0cmhG-EvuB9gwnOAQx4"
+      "images":"http://localhost:3000/assets/img/touch-slider/img1.jpg"
     },
     {
       "name":"RedBull",
       "shortDescription":"The good product for your heath.",
-      "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndEiKEvhiSw4kxopzfQPeE_2AVI-YL0cmhG-EvuB9gwnOAQx4"
+      "images":"http://localhost:3000/assets/img/touch-slider/img1.jpg"
     },
     {
       "name":"RedBull",
       "shortDescription":"The good product for your heath.",
-      "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndEiKEvhiSw4kxopzfQPeE_2AVI-YL0cmhG-EvuB9gwnOAQx4"
+      "images":"http://localhost:3000/assets/img/touch-slider/img1.jpg"
     },
     {
       "name":"RedBull",
       "shortDescription":"The good product for your heath.",
-      "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndEiKEvhiSw4kxopzfQPeE_2AVI-YL0cmhG-EvuB9gwnOAQx4"
+      "images":"http://localhost:3000/assets/img/touch-slider/img1.jpg"
+    },
+    {
+      "name":"RedBull",
+      "shortDescription":"The good product for your heath.",
+      "images":"http://localhost:3000/assets/img/touch-slider/img1.jpg"
     }
   ]
 }
